@@ -1,6 +1,12 @@
 # General
 We are making a line following music player robot for a first year robotics competition at the Robotics Team in University of Waterloo. 
 
+Robot functionality:
+
+- Follow a straight line
+
+- Read a grey scale and play notes with different frequencies according to the greyscale
+
 Team name: Brobotics
 
 
