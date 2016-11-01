@@ -14,15 +14,15 @@ We are making a line following music player robot for a first year robotics comp
 
 ###Team members and jobs:
 
-  - **Ivy:** _Project manager
+  - **Ivy:** _Project manager_
   
-  - **Nick:** _Mechanical lead
+  - **Nick:** _Mechanical lead_
   
-  - **Ariel:** _Electrical lead
+  - **Ariel:** _Electrical lead_
   
-  - **Roxane:** _Electrical lead
+  - **Roxane:** _Electrical lead_
   
-  - **Saswata:** _Software lead
+  - **Saswata:** _Software lead_
   
 
 
