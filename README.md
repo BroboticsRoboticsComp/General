@@ -1,7 +1,7 @@
 # General
 We are making a line following music player robot for a first year robotics competition at the Robotics Team in University of Waterloo. 
 
-![](https://raw.githubusercontent.com/BroboticsRoboticsComp/General/master/Robot.JPG | width=50)
+![](https://raw.githubusercontent.com/BroboticsRoboticsComp/General/master/Robot.JPG)
 
 Robot functionality:
 
