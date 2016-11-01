@@ -3,28 +3,30 @@ We are making a line following music player robot for a first year robotics comp
 
 ![](https://raw.githubusercontent.com/BroboticsRoboticsComp/General/master/Robot.JPG)
 
-Robot functionality:
+###Robot functionality:
 
 - Follow a straight line
 
 - Read a grey scale and play notes with different frequencies according to the greyscale
 
-Team name: Brobotics
+**Team name:** _Brobotics_
 
 
-Team members and jobs:
+###Team members and jobs:
 
-  - Ivy: project manager
+  - **Ivy:** _Project manager
   
-  - Nick: mechanical lead
+  - **Nick:** _Mechanical lead
   
-  - Ariel, Roxane: electrical lead
+  - **Ariel:** _Electrical lead
   
-  - Saswata: software lead
+  - **Roxane:** _Electrical lead
+  
+  - **Saswata:** _Software lead
   
 
 
-Information doc
+###Information doc
 
   - contains information from slack channel, including rubric, links to other docs and the conversations organized by section
   
