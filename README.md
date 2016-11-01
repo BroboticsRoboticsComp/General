@@ -1,7 +1,7 @@
 # General
 We are making a line following music player robot for a first year robotics competition at the Robotics Team in University of Waterloo. 
 
-(![alt tag](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png))
+![alt tag](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 
 Robot functionality:
 
