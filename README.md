@@ -31,3 +31,11 @@ We are making a line following music player robot for a first year robotics comp
   - contains information from slack channel, including rubric, links to other docs and the conversations organized by section
   
   - https://docs.google.com/document/d/17xtiUwKpYQ7NlJnu_zE0oJ1wV2aJgrWeWNc33AgVjzA/edit?usp=sharing
+
+**Result of competition:** Fifth
+
+###Special thanks to:
+
+- **Michael** for his wires and solder
+
+- **Aman** for his super glue
